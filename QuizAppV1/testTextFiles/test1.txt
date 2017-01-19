@@ -1,0 +1,22 @@
+3
+
+K: math addition basic multipleChoice
+D: 1
+Q: $1+1 = $
+A: $2$
+S: $1+1 = 2$
+M: 1 2 3
+
+K: math, division, basic, multipleChoice
+D: 1
+Q: $\frac{10}{5} = $
+A: $2$
+S: $\frac{10}{5} \Rightarrow \hskip .5em \frac{2}{1} \Rightarrow  \hskip .5em 2$
+M: 4, 3, 2
+
+K: math, complex, algebra
+D: 2
+Q: $x^2 + 4x + 4 = 0$
+A: $x = -2$
+S: Solution:\\$x^2 + 4x + 4 = 0$\\$\Rightarrow \hskip .5em x^2 + 2x + 2x + 4 = 0$\\$\Rightarrow \hskip .5em x(x + 2) + 2(x + 2) = 0$\\$\Rightarrow \hskip .5em (x+2)(x+2) = 0$\\$\Rightarrow \hskip .5em x = -2$
+M: 
